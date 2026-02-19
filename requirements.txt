@@ -1,5 +1,6 @@
-streamlit
-nltk
-textblob
-newspaper3k
-lxml[html_clean]
+streamlit==1.32.0
+nltk==3.8.1
+textblob==0.17.1
+newspaper3k==0.2.8
+lxml==4.9.3
+lxml_html_clean
