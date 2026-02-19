@@ -1,0 +1,14 @@
+[project]
+name = "ai-summarizer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "lxml>=6.0.2",
+    "lxml-html-clean>=0.4.3",
+    "newspaper3k>=0.2.8",
+    "nltk>=3.9.2",
+    "streamlit>=1.54.0",
+    "textblob>=0.19.0",
+]
