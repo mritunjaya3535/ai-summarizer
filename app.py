@@ -4,7 +4,7 @@ from textblob import TextBlob
 from newspaper import Article
 
 # Download punkt if not already installed
-# nltk.download('punkt')
+nltk.download('punkt')
 
 st.set_page_config(page_title="News Summarizer", layout="wide")
 
